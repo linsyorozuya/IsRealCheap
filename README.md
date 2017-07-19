@@ -11,4 +11,4 @@
 
 ### 使用方法
 
-![gif](http://linsyorozuya.com/content/images/2017/01/---.gif)
+![gif](https://github.com/linsyorozuya/IsRealCheap/blob/master/Icon/---.gif)
