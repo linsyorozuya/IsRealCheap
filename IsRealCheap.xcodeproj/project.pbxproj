@@ -17,7 +17,6 @@
 		EC47DD931E1B39DD007999E0 /* TodayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC47DD921E1B39DD007999E0 /* TodayViewController.m */; };
 		EC47DD961E1B39DD007999E0 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC47DD941E1B39DD007999E0 /* MainInterface.storyboard */; };
 		EC47DD9A1E1B39DD007999E0 /* IsRealCheapWidget.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = EC47DD8C1E1B39DD007999E0 /* IsRealCheapWidget.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		EC484C991E5D677000C7C7BE /* TextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC484C981E5D677000C7C7BE /* TextViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,8 +60,6 @@
 		EC47DD921E1B39DD007999E0 /* TodayViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TodayViewController.m; sourceTree = "<group>"; };
 		EC47DD951E1B39DD007999E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
 		EC47DD971E1B39DD007999E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EC484C971E5D677000C7C7BE /* TextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextViewController.h; sourceTree = "<group>"; };
-		EC484C981E5D677000C7C7BE /* TextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextViewController.m; sourceTree = "<group>"; };
 		ECD5AE261E1C840200CADB11 /* IsRealCheapWidget.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = IsRealCheapWidget.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -144,8 +141,6 @@
 				EC47DD921E1B39DD007999E0 /* TodayViewController.m */,
 				EC47DD941E1B39DD007999E0 /* MainInterface.storyboard */,
 				EC47DD971E1B39DD007999E0 /* Info.plist */,
-				EC484C971E5D677000C7C7BE /* TextViewController.h */,
-				EC484C981E5D677000C7C7BE /* TextViewController.m */,
 			);
 			path = IsRealCheapWidget;
 			sourceTree = "<group>";
@@ -270,7 +265,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EC484C991E5D677000C7C7BE /* TextViewController.m in Sources */,
 				EC47DD931E1B39DD007999E0 /* TodayViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

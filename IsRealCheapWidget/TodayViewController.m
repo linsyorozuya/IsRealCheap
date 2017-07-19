@@ -8,7 +8,6 @@
 
 #import "TodayViewController.h"
 #import <NotificationCenter/NotificationCenter.h>
-#import "TextViewController.h"
 
 @interface TodayViewController () <NCWidgetProviding>
 
